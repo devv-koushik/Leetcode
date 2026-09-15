@@ -30,7 +30,7 @@ The result of the merge is [1].
 <strong>Output:</strong> [1]
 <strong>Explanation:</strong> The arrays we are merging are [] and [1].
 The result of the merge is [1].
-Note that because m = 0, there are no elements in nums1. The 0 is only there to ensure the merge result can fit in nums1.
+Note that because m = 0, there are no elements in nums1. The 0 is only there to ensure the merge result can fit  in nums1.
 </pre>
 
 <p>&nbsp;</p>
