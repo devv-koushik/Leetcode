@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/git-00000/Leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/devv-koushik/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/devv-koushik/Leetcode/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/devv-koushik/Leetcode/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/devv-koushik/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
