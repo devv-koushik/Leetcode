@@ -18,7 +18,7 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 
 <pre>
 <strong>Input:</strong> prices = [7,6,4,3,1]
-<strong>Output:</strong> 0
+<strong>Output.:</strong> 0
 <strong>Explanation:</strong> In this case, no transactions are done and the max profit = 0.
 </pre>
 
