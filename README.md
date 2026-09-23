@@ -44,7 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/devv-koushik/Leetcode/tree/master/0050-powx-n) |
-## Dynamic Programming
+## Dynamic Programming 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devv-koushik/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
