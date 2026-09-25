@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devv-koushik/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devv-koushik/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/devv-koushik/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/devv-koushik/Leetcode/tree/master/0075-sort-colors) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devv-koushik/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/devv-koushik/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/git-00000/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Math
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devv-koushik/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/devv-koushik/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
