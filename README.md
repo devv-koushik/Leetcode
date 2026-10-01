@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/git-00000/Leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/devv-koushik/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/devv-koushik/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/devv-koushik/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/devv-koushik/Leetcode/tree/master/0069-sqrtx) |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devv-koushik/Leetcode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/devv-koushik/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
