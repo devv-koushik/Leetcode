@@ -6,6 +6,7 @@
 | [0011-container-with-most-water](https://github.com/devv-koushik/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devv-koushik/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/devv-koushik/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/devv-koushik/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/devv-koushik/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/devv-koushik/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/git-00000/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -85,4 +86,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devv-koushik/Leetcode/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/devv-koushik/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/devv-koushik/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
